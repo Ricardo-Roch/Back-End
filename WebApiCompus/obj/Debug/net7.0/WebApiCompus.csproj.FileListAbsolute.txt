@@ -1,0 +1,228 @@
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/appsettings.Development.json
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/appsettings.json
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/WebApiCompus
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/WebApiCompus.deps.json
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/WebApiCompus.runtimeconfig.json
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/WebApiCompus.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/WebApiCompus.pdb
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/WebApiCompus.csproj.AssemblyReference.cache
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/WebApiCompus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/WebApiCompus.AssemblyInfoInputs.cache
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/WebApiCompus.AssemblyInfo.cs
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/WebApiCompus.csproj.CoreCompileInputs.cache
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/WebApiCompus.MvcApplicationPartsAssemblyInfo.cs
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/WebApiCompus.MvcApplicationPartsAssemblyInfo.cache
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/staticwebassets/msbuild.WebApiCompus.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/staticwebassets/msbuild.build.WebApiCompus.props
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebApiCompus.props
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebApiCompus.props
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/scopedcss/bundle/WebApiCompus.styles.css
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/WebApiCompus.csproj.CopyComplete
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/WebApiCompus.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/refint/WebApiCompus.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/WebApiCompus.pdb
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/WebApiCompus.genruntimeconfig.cache
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/obj/Debug/net7.0/ref/WebApiCompus.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Azure.Core.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Azure.Identity.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Humanizer.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/System.CodeDom.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ricardo/Projects/WebApiCompus/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/appsettings.Development.json
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/appsettings.json
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/WebApiCompus
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/WebApiCompus.deps.json
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/WebApiCompus.runtimeconfig.json
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/WebApiCompus.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/WebApiCompus.pdb
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Azure.Core.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Azure.Identity.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Humanizer.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/System.CodeDom.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.csproj.AssemblyReference.cache
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.AssemblyInfoInputs.cache
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.AssemblyInfo.cs
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.csproj.CoreCompileInputs.cache
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.MvcApplicationPartsAssemblyInfo.cs
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.MvcApplicationPartsAssemblyInfo.cache
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/staticwebassets/msbuild.WebApiCompus.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/staticwebassets/msbuild.build.WebApiCompus.props
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebApiCompus.props
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebApiCompus.props
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/scopedcss/bundle/WebApiCompus.styles.css
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.csproj.CopyComplete
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/refint/WebApiCompus.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.pdb
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.genruntimeconfig.cache
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti1/WebApiCompus/obj/Debug/net7.0/ref/WebApiCompus.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/appsettings.Development.json
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/appsettings.json
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/WebApiCompus
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/WebApiCompus.deps.json
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/WebApiCompus.runtimeconfig.json
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/WebApiCompus.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/WebApiCompus.pdb
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Azure.Core.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Azure.Identity.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Humanizer.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/System.CodeDom.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.csproj.AssemblyReference.cache
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.AssemblyInfoInputs.cache
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.AssemblyInfo.cs
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.csproj.CoreCompileInputs.cache
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.MvcApplicationPartsAssemblyInfo.cs
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.MvcApplicationPartsAssemblyInfo.cache
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/staticwebassets/msbuild.WebApiCompus.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/staticwebassets/msbuild.build.WebApiCompus.props
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebApiCompus.props
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebApiCompus.props
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/scopedcss/bundle/WebApiCompus.styles.css
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.csproj.CopyComplete
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/refint/WebApiCompus.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.pdb
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.genruntimeconfig.cache
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/ref/WebApiCompus.dll
