@@ -226,3 +226,4 @@
 /Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.pdb
 /Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/WebApiCompus.genruntimeconfig.cache
 /Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/obj/Debug/net7.0/ref/WebApiCompus.dll
+/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/bin/Debug/net7.0/Newtonsoft.Json.dll

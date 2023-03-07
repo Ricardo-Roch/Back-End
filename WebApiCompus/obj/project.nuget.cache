@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bFfJkfaW7GLx5PlkAsZ2iqQJ0ulzMWzIQfZAbRTml9/9G3OoL/kKnKXYDSKRJdaHHZJ0HApUZjasV+HBbTDXTA==",
+  "dgSpecHash": "VJzq4s8tku+nW23bNFqthidHkU1ZJ62Uh0B59kv/gj/tuXcV15aJkFjcaku/U3kqefxZoNoFgKTbPLpGqrTQ/g==",
   "success": true,
   "projectFilePath": "/Users/ricardo/Desktop/Facu/Semestre 6/Back-End/Acti-1/WebApiCompus/WebApiCompus.csproj",
   "expectedPackageFiles": [
@@ -45,6 +45,7 @@
     "/Users/ricardo/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
     "/Users/ricardo/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "/Users/ricardo/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
+    "/Users/ricardo/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
     "/Users/ricardo/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/Users/ricardo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/Users/ricardo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
