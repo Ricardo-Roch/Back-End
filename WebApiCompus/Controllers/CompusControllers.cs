@@ -47,21 +47,22 @@ namespace WebApiCompus.Controllers
 		}
 
 
-        [HttpDelete("{id:int}")]
-        public async Task<ActionResult> Delete(int id)
-        {
-            var compus = await dbContext.Compus.FindAsync(id);
-            if (compus == null)
-            {
-                return NotFound();
-            }
-
-            dbContext.Compus.Remove(compus);
-            await dbContext.SaveChangesAsync();
-
-            return Ok();
-        }
-
+		[HttpDelete("{id:int}")]
+		public async Task<ActionResult> Delete(int id)
+		{
+			var exist = await dbContext.Compus.AnyAsync(x => x.Id == id);
+			if (!exist)
+			{
+				return NotFound();
+			}
+			dbContext.Remove(new Compus()
+			{
+				Id= id
+			});
+			await dbContext.SaveChangesAsync();
+			
+			return Ok();
+		}
     }
 }
 
