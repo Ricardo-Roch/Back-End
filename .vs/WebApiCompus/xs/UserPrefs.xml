@@ -1,25 +1,40 @@
 ﻿<Properties StartupConfiguration="{544C793B-5115-43F7-8A82-0B4A68DF0EC3}|https">
-  <MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApiCompus/Controllers/CompusControllers.cs">
     <Files>
-      <File FileName="WebApiCompus/Controllers/CompusControllers.cs" Line="20" Column="10" />
+      <File FileName="WebApiCompus/Controllers/CompusControllers.cs" Line="32" Column="39" />
       <File FileName="WebApiCompus/Entidades/Compus.cs" Line="6" Column="16" />
-      <File FileName="WebApiCompus/Controllers/ComponentesController.cs" Line="18" Column="43" />
-      <File FileName="WebApiCompus/Entidades/Componentes.cs" Line="11" Column="40" />
+      <File FileName="WebApiCompus/Controllers/ComponentesController.cs" Line="11" Column="6" />
+      <File FileName="WebApiCompus/Entidades/Componentes.cs" Line="6" Column="22" />
       <File FileName="WebApiCompus/appsettings.json" Line="8" Column="21" />
-      <File FileName="WebApiCompus/appsettings.Development.json" Line="9" Column="23" />
+      <File FileName="WebApiCompus/appsettings.Development.json" Line="10" Column="5" />
       <File FileName="WebApiCompus/AplicationDbContext.cs" Line="7" Column="34" />
       <File FileName="WebApiCompus/Program.cs" Line="1" Column="1" />
-      <File FileName="WebApiCompus/Startup.cs" Line="12" Column="4" />
+      <File FileName="WebApiCompus/Startup.cs" Line="27" Column="91" />
+      <File FileName="WebApiCompus/Properties/launchSettings.json" Line="16" Column="47" />
+      <File FileName="WebApiCompus/Migrations/20230307183022_IntitialMigration.cs" Line="1" Column="1" />
+      <File FileName="WebApiCompus/Migrations/AplicationDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="WebApiCompus/Migrations/20230307183022_IntitialMigration.Designer.cs" Line="1" Column="1" />
+      <File FileName="WebApiCompus/Controllers/Base.cs" Line="8" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WebApiCompus" expanded="True">
             <Node name="WebApiCompus" expanded="True">
-              <Node name="ConnectedServicesFolder" selected="True" />
               <Node name="Dependencies" expanded="True" />
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="CompusControllers.cs" selected="True" />
+              </Node>
               <Node name="Entidades" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20230307183022_IntitialMigration.cs" expanded="True" />
+              </Node>
               <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
@@ -27,11 +42,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.WebApiCompus PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
