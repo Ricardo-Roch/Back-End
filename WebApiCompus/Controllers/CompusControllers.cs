@@ -20,7 +20,7 @@ namespace WebApiCompus.Controllers
         [HttpGet]
         public async Task<ActionResult<List<Compus>>> Get()
         {
-			return await dbContext.Compus.ToListAsync();
+			return await dbContext.Compus.Include(x => x.componentes).ToListAsync();
             
         }
 

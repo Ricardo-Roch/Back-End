@@ -12,6 +12,7 @@ namespace WebApiCompus
 		}
 
 		public DbSet<Compus> Compus { get; set; }
+        public DbSet<Componentes> Componentes { get; set; }
     }
 }
 
